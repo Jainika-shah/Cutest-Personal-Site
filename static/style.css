@@ -223,4 +223,16 @@ h3{
 	.contact-me{
 		width: 90%;
 	}
+	li{
+		font-size: 1rem;
+		padding: 0 1rem;
+	}
+	
+	.copyright-text{
+		font-size: .6rem;
+	}
+	ol{
+		padding: 0;
+		
+	}
   }
